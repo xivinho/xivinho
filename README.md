@@ -155,7 +155,7 @@ Me chamo Ivo Viesser Neto, tenho 18 anos e sou natural do Rio Grande do Sul, Con
     />
 
 <img 
-        align="right" 
+        align="left" 
         alt="GitHub Stats" 
         height="150" 
         style="padding-right: 10px;" 
