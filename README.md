@@ -166,3 +166,12 @@ Me chamo Ivo Viesser Neto, tenho 18 anos e sou natural do Rio Grande do Sul, Con
 
 ### 📱 Linguagens e Tecnologias     
 
+<p>
+    <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=xivinho&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+
