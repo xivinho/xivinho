@@ -25,6 +25,13 @@ Me chamo Ivo Viesser Neto, tenho 18 anos e sou natural do Rio Grande do Sul, Con
             src="https://img.shields.io/badge/Whatsapp%20-%20%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https%3A%2F%2Fwa.me%2Fqr%2FFZA2T7T2UJ7LK1"
         />
     </a>
+    <a href="https://www.instagram.com/ivo_viesser/">
+        <img 
+            alt="Instagram" 
+            title="Instagram" 
+            src="https://img.shields.io/badge/Instagram%20-%20%23FF0069?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fwa.me%2Fqr%2FFZA2T7T2UJ7LK1"
+        />
+    </a>
     
 </p>
 
