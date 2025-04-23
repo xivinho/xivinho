@@ -8,7 +8,7 @@ Me chamo Ivo Viesser Neto, tenho 18 anos e sou natural do Rio Grande do Sul, Con
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas no github" 
-            src="https://custom-icon-badges.demolab.com/github/stars/xivinho?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/xivinho?color=#FF6600style=for-the-badge&labelColor=#FF6600&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/xivinho?tab=followers">
