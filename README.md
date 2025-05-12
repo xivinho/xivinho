@@ -65,15 +65,6 @@ Me chamo Ivo Viesser Neto, tenho 18 anos e sou natural do Rio Grande do Sul, Con
 
 <img 
     align="left" 
-    alt="Blender"
-    title="Blender" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Python"
     title="Python" 
     width="30px" 
@@ -97,15 +88,6 @@ Me chamo Ivo Viesser Neto, tenho 18 anos e sou natural do Rio Grande do Sul, Con
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>  
-
-<img 
-    align="left" 
-    alt="Godot"
-    title="Godot" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" 
 />  
 
 <img 
@@ -164,8 +146,8 @@ Me chamo Ivo Viesser Neto, tenho 18 anos e sou natural do Rio Grande do Sul, Con
 
 <img 
     align="left" 
-    alt="Unity"
-    title="Unity" 
+    alt="React"
+    title="React" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
@@ -173,8 +155,8 @@ Me chamo Ivo Viesser Neto, tenho 18 anos e sou natural do Rio Grande do Sul, Con
 
 <img 
     align="left" 
-    alt="Unity"
-    title="Unity" 
+    alt="Javascript"
+    title="Javascript" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
@@ -182,8 +164,8 @@ Me chamo Ivo Viesser Neto, tenho 18 anos e sou natural do Rio Grande do Sul, Con
 
 <img 
     align="left" 
-    alt="Unity"
-    title="Unity" 
+    alt="NodeJS"
+    title="NodeJS" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg"
@@ -191,16 +173,16 @@ Me chamo Ivo Viesser Neto, tenho 18 anos e sou natural do Rio Grande do Sul, Con
 
 <img 
     align="left" 
-    alt="Unity"
-    title="Unity" 
+    alt="MongoDB"
+    title="MongoDB" 
     width="30px" 
     style="padding: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" 
 />   
 <img
     align="left" 
-    alt="Unity"
-    title="Unity" 
+    alt="Git"
+    title="Git" 
     width="30px" 
     style="padding: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
