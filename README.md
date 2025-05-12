@@ -194,8 +194,7 @@ Me chamo Ivo Viesser Neto, tenho 18 anos e sou natural do Rio Grande do Sul, Con
     alt="Unity"
     title="Unity" 
     width="30px" 
-    style="padding-right: 10px;"
-    style="padding-bottom: 10px"
+    style="padding: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" 
 />   
 <img
@@ -203,8 +202,7 @@ Me chamo Ivo Viesser Neto, tenho 18 anos e sou natural do Rio Grande do Sul, Con
     alt="Unity"
     title="Unity" 
     width="30px" 
-    style="padding-right: 10px;" 
-    style="padding-bottom: 10px"
+    style="padding: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
