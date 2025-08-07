@@ -179,14 +179,13 @@ Me chamo Ivo Viesser Neto, tenho 19 anos e sou natural do Rio Grande do Sul, con
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" 
 />   
-
 <img 
     align="left" 
-    alt="Blender"
-    title="Blender" 
+    alt="TailwindCSS"
+    title="TailwindCSS" 
     width="30px" 
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" 
 />
 
 <br/>
