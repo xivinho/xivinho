@@ -55,7 +55,7 @@ Me chamo Ivo Viesser Neto, tenho 19 anos e sou natural do Rio Grande do Sul, con
 />
 
 <img 
-    align="left" 
+    align="center" 
     alt="CSS"
     title="CSS" 
     width="30px" 
@@ -64,7 +64,7 @@ Me chamo Ivo Viesser Neto, tenho 19 anos e sou natural do Rio Grande do Sul, con
 />
 
 <img 
-    align="left" 
+    align="center" 
     alt="Python"
     title="Python" 
     width="30px" 
@@ -73,7 +73,7 @@ Me chamo Ivo Viesser Neto, tenho 19 anos e sou natural do Rio Grande do Sul, con
 />
 
 <img 
-    align="left" 
+    align="center" 
     alt="C#"
     title="C#" 
     width="30px" 
@@ -82,7 +82,7 @@ Me chamo Ivo Viesser Neto, tenho 19 anos e sou natural do Rio Grande do Sul, con
 />   
 
 <img 
-    align="left" 
+    align="center" 
     alt="PostgreSQL"
     title="PostgreSQL" 
     width="30px" 
@@ -91,7 +91,7 @@ Me chamo Ivo Viesser Neto, tenho 19 anos e sou natural do Rio Grande do Sul, con
 />  
 
 <img 
-    align="left" 
+    align="center" 
     alt="C++"
     title="C++" 
     width="30px" 
@@ -100,7 +100,7 @@ Me chamo Ivo Viesser Neto, tenho 19 anos e sou natural do Rio Grande do Sul, con
 />   
 
 <img 
-    align="left" 
+    align="center" 
     alt=".NETCORE"
     title=".NETCORE" 
     width="30px" 
@@ -109,7 +109,7 @@ Me chamo Ivo Viesser Neto, tenho 19 anos e sou natural do Rio Grande do Sul, con
 /> 
       
 <img 
-    align="left" 
+    align="center" 
     alt="Visual Studio"
     title="Visual Studio" 
     width="30px" 
@@ -118,7 +118,7 @@ Me chamo Ivo Viesser Neto, tenho 19 anos e sou natural do Rio Grande do Sul, con
 />  
 
 <img 
-    align="left" 
+    align="center" 
     alt="VS Code"
     title="VS Code" 
     width="30px" 
@@ -127,7 +127,7 @@ Me chamo Ivo Viesser Neto, tenho 19 anos e sou natural do Rio Grande do Sul, con
 />   
 
 <img 
-    align="left" 
+    align="center" 
     alt="Unity"
     title="Unity" 
     width="30px" 
@@ -136,7 +136,7 @@ Me chamo Ivo Viesser Neto, tenho 19 anos e sou natural do Rio Grande do Sul, con
 />
 
 <img 
-    align="left" 
+    align="center" 
     alt="React"
     title="React" 
     width="30px" 
@@ -145,7 +145,7 @@ Me chamo Ivo Viesser Neto, tenho 19 anos e sou natural do Rio Grande do Sul, con
 />
 
 <img 
-    align="left" 
+    align="center" 
     alt="Javascript"
     title="Javascript" 
     width="30px" 
@@ -154,7 +154,7 @@ Me chamo Ivo Viesser Neto, tenho 19 anos e sou natural do Rio Grande do Sul, con
 />
 
 <img 
-    align="left" 
+    align="center" 
     alt="NodeJS"
     title="NodeJS" 
     width="30px" 
@@ -163,7 +163,7 @@ Me chamo Ivo Viesser Neto, tenho 19 anos e sou natural do Rio Grande do Sul, con
 />
 
 <img 
-    align="left" 
+    align="center" 
     alt="MongoDB"
     title="MongoDB" 
     width="30px" 
@@ -171,7 +171,7 @@ Me chamo Ivo Viesser Neto, tenho 19 anos e sou natural do Rio Grande do Sul, con
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" 
 />   
 <img 
-    align="left" 
+    align="right" 
     alt="TailwindCSS"
     title="TailwindCSS" 
     width="30px" 
