@@ -50,120 +50,120 @@ Me chamo Ivo Viesser Neto, tenho 19 anos e sou natural do Rio Grande do Sul, con
         align="left" 
         alt="HTML"
         title="HTML" 
-        width="30px" 
-        style="padding-right: 10px;" 
+        width="40px"
+        height="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
     />
     <img 
         align="center" 
         alt="CSS"
         title="CSS" 
-        width="30px" 
-        style="padding-right: 10px;" 
+        width="40px"
+        height="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
     />
     <img 
         align="center" 
         alt="Python"
         title="Python" 
-        width="30px" 
-        style="padding-right: 10px;" 
+        width="40px"
+        height="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
     />
     <img 
         align="center" 
         alt="C#"
         title="C#" 
-        width="30px" 
-        style="padding-right: 10px;" 
+        width="40px"
+        height="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
     />   
     <img 
         align="center" 
         alt="PostgreSQL"
         title="PostgreSQL" 
-        width="30px" 
-        style="padding-right: 10px;" 
+        width="40px"
+        height="30px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
     />  
     <img 
         align="center" 
         alt="C++"
         title="C++" 
-        width="30px" 
-        style="padding-right: 10px;" 
+        width="40px"
+        height="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
     />   
     <img 
         align="center" 
         alt=".NETCORE"
         title=".NETCORE" 
-        width="30px" 
-        style="padding-right: 10px;" 
+        width="40px"
+        height="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
     /> 
     <img 
         align="center" 
         alt="Visual Studio"
         title="Visual Studio" 
-        width="30px" 
-        style="padding-right: 10px;" 
+        width="40px"
+        height="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
     />  
     <img 
         align="center" 
         alt="VS Code"
         title="VS Code" 
-        width="30px" 
-        style="padding-right: 10px;" 
+        width="40px"
+        height="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
     />   
     <img 
         align="center" 
         alt="Unity"
         title="Unity" 
-        width="30px" 
-        style="padding-right: 10px;" 
+        width="40px"
+        height="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" 
     />
     <img 
         align="center" 
         alt="React"
         title="React" 
-        width="30px" 
-        style="padding-right: 10px;" 
+        width="40px"
+        height="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
     />
     <img 
         align="center" 
         alt="Javascript"
         title="Javascript" 
-        width="30px" 
-        style="padding-right: 10px;" 
+        width="40px"
+        height="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
     />
     <img 
         align="center" 
         alt="NodeJS"
         title="NodeJS" 
-        width="30px" 
-        style="padding-right: 10px;" 
+        width="40px"
+        height="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg"
     />
     <img 
         align="center" 
         alt="MongoDB"
         title="MongoDB" 
-        width="30px" 
-        style="padding-right: 10px;"
+        width="40px"
+        height="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" 
     />   
     <img 
-        align="right" 
+        align="center" 
         alt="TailwindCSS"
         title="TailwindCSS" 
-        width="30px" 
-        style="padding-right: 10px;"
+        width="40px"
+        height="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
     />
 </div>
