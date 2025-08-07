@@ -168,10 +168,8 @@ Me chamo Ivo Viesser Neto, tenho 19 anos e sou natural do Rio Grande do Sul, con
     />
 </div>
 
- ###
+ ##
 
-<br/>
-<br/>
 
 ### 📱 Linguagens e Tecnologias     
 
